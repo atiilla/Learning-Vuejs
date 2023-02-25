@@ -5,3 +5,7 @@
 - [ ] HTTP Requests
 - [ ] State Management
 - [ ] Managing Forms
+- [ ] Event Handling
+- [ ] Lifecycle Hooks
+- [ ] Styling
+- [ ] Conditional Rendering
